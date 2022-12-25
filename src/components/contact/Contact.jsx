@@ -1,7 +1,9 @@
 import './contact.css'
 
 const Contact = () => {
-    return (  );
+    return ( 
+        <div>Contact</div>
+    );
 }
  
 export default Contact;
